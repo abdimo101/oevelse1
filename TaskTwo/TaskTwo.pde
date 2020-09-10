@@ -1,7 +1,6 @@
 String name = "Abdi";
 int age = 21;
 boolean happy;
-boolean sad;
 void setup(){
 size(630, 360);
 
